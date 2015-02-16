@@ -1,4 +1,4 @@
-##liftover_UC
+##liftover_UCSC
 UCSC utility of liftover can be adopted to to convert OLD_BUILD version of genome to NEW_BUILD version genome.<br />
 Main page is http://genomewiki.ucsc.edu/index.php/Minimal_Steps_For_LiftOver<br />
 Bioinformatic utilities are here to be downloaded:
