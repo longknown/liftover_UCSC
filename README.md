@@ -45,6 +45,6 @@ Some steps may be further explored or understood, for this time, our time is lim
 
 ******
 ####NOTICE
-*1. default convertion file format would be .bed .ped, but .gff/.gtf/.gff2 could also be converted using parameter,*<br />
+*1. default convertion file format would be .bed .ped, but .gff/.gtf/.gff2 could also be converted using parameter -gff*<br />
 *2. the conversion rate > 90%*
 ******
