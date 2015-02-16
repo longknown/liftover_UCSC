@@ -1,4 +1,4 @@
-# liftover_UCSC
+# liftover_UC
 UCSC utility of liftover can be adopted to to convert OLD_BUILD version of genome to NEW_BUILD version genome.
 # Main page is http://genomewiki.ucsc.edu/index.php/Minimal_Steps_For_LiftOver
 # Bioinformatic utilities are here to be downloaded http://hgdownload.cse.ucsc.edu/admin/exe/
@@ -8,6 +8,7 @@ UCSC utility of liftover can be adopted to to convert OLD_BUILD version of genom
 
 ################################################################################
 ### start of creating mapping files ###
+
 Step1: using lastz to create lav file
 # lastz Main pape: http://www.bx.psu.edu/miller_lab/dist/README.lastz-1.02.00/README.lastz-1.02.00a.html
 lastz NEW_BUILD_DIR/chr${i}_6.2bit OLD_BUILD_DIR/chr${i}_5.2bit --chain --notransition --step=100 > chr${i}.lav
@@ -35,5 +36,5 @@ liftOver oldFile map.chain newFile unMapped
 
 ### NOTICE ###
 # default convertion file format would be .bed .ped, but .gff/.gtf/.gff2 could also be converted using parameter -
-# the conversion ratio ~ 
+# the conversion rate > 90%
 ##############
