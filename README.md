@@ -4,7 +4,7 @@ Main page is [Minimal_Steps_For_LiftOver](http://genomewiki.ucsc.edu/index.php/M
 Bioinformatic utilities are here to be downloaded:
 [liftOver Utilities](http://hgdownload.cse.ucsc.edu/admin/exe/)<br />
 The following steps have already been gone through once in the work of lab member Yang Lv's graduate paper, and succeed!<br />
-Some steps may be further explored or understood, for this time, our time is limited, so we didn't not spend too much time 	understanding the meaning of each step<br />
+Some steps may be further explored or understood, for this time, our time is limited, so we didn't spend too much time 	understanding the meaning of each step<br />
 
 ******
 **Before the first step**
