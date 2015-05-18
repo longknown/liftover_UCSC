@@ -37,6 +37,10 @@ Some steps may be further explored or understood, for this time, our time is lim
 **Step4** *merge and sort the .chain file*
 
 	$chainMergeSort *chain | chainSplit over stdin;
+
+**Step5** *concatenate all .chain file*
+
+	$cat *chain > OLD2NEW.chain
 ******
 
 **Final step** *liftover genomes*
